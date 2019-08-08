@@ -11,3 +11,4 @@ public class Main
         myAthlete.create("Rugby");
     }
 }
+

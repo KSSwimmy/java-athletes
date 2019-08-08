@@ -8,3 +8,4 @@ public class Athlete
         System.out.println(sport + " Athlete");
     }
 }
+
